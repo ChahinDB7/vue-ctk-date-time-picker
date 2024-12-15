@@ -1,7 +1,7 @@
 {
   "name": "@chahindb7/vue-ctk-date-time-picker",
-  "version": "1.0.0",
-  "description": "A Vue 3 DateTime Picker component with customizable options.",
+  "version": "1.0.1",
+  "description": "A vue component for select date & time (modified by Chahin)",
   "type": "module",
   "main": "dist/vue-ctk-date-time-picker.umd.js",
   "module": "dist/vue-ctk-date-time-picker.es.js",
@@ -60,6 +60,7 @@
   "keywords": [
     "vue",
     "vue3",
+    "nuxt3",
     "datetime-picker",
     "datepicker",
     "vue-component",
