@@ -1,0 +1,14 @@
+@use './_flex.scss';
+@use './_fonts.scss';
+@use './_container-size.scss';
+@use './_spacing.scss';
+@use './_btn.scss';
+@use './_animation.scss';
+@use './_typo.scss';
+@use './_width_height.scss';
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
